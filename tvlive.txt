@@ -1,4 +1,4 @@
-⛵  港•澳•台1,#genre#
+⛵  港•澳•台2,#genre#
 凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰中文,http://tv.beimua.com/tvs.php?id=11
 凤凰中文,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
