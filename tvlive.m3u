@@ -1,5 +1,5 @@
 #EXTM3U url="https://raw.githubusercontent.com/renyuanceshi/tvlive/main/tvlive.m3u"
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://sc2024.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
 https://sc2024.stream-link.org/live/15524818563.php?id=h19ta
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
 https://hls.watchtv.uk/ompd/jade/index.m3u8?t=1705391850&token=c67e9b731ef7d712ff8139c22d5721b7
