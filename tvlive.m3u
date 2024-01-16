@@ -1,9 +1,21 @@
 #EXTM3U url="https://raw.githubusercontent.com/renyuanceshi/tvlive/main/tvlive.m3u"
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
 https://sc2024.stream-link.org/live/15524818563.php?id=h19ta
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台1
-https://sc2024.stream-link.org/live/15524818563.php?id=h87ck
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
 https://hls.watchtv.uk/ompd/jade/index.m3u8?t=1705391850&token=c67e9b731ef7d712ff8139c22d5721b7
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台1
+https://sc2024.stream-link.org/live/15524818563.php?id=h87ck
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
 https://sc2024.stream-link.org/live/15524818563.php?id=h58hp
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
+https://sc2024.stream-link.org/live/15524818563.php?id=h11tn
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
+https://sc2024.stream-link.org/live/15524818563.php?id=h16sr
+#EXTINF:-1 tvg-id="83" tvg-name="明珠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_pearl.png" group-title="TVB",明珠台
+https://hls.watchtv.uk/ompd/pearl/index.m3u8?t=1705392968&token=7a0b1b380ea0bd050ffa06c2e41ed3d5
+#EXTINF:-1 tvg-id="83" tvg-name="明珠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_pearl.png" group-title="TVB",明珠台
+https://hls.watchtv.uk/pearl_twn/playlist-17.m3u8a?t=1705393098&token=5ee41208e7bf12b4c8402ed8ea379aa0
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
+https://sc2024.stream-link.org/live/15524818563.php?id=h54am
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
+https://sc2024.stream-link.org/live/15524818563.php?id=h96gf
