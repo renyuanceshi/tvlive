@@ -1,0 +1,12 @@
+#EXTM3U url="http://www.stream-link.org/stream-link.m3u"
+#EXTINF:-1 tvg-id="999" tvg-name="測試01" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="測試",測試01
+https://sc2022.stream-link.org/tv2306.php?id=c01
+#EXTINF:-1 tvg-id="999" tvg-name="測試02" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="測試",測試02
+https://sc2022.stream-link.org/tv2306.php?id=c02
+#EXTINF:-1 tvg-id="999" tvg-name="測試03" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="測試",測試03
+https://sc2022.stream-link.org/tv2306.php?id=c03
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
+https://sc2022.stream-link.org/tv2306.php?id=h01
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
+https://sc2022.stream-link.org/tv2306.php?id=h02
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
