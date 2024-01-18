@@ -1,6 +1,6 @@
 #EXTM3U url="https://raw.githubusercontent.com/renyuanceshi/tvlive/main/tvlive.m3u"
 #EXTINF:-1 tvg-id="31" tvg-name="RTHKTV31" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
+RTHK31, https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="RTHKTV32" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="RTHKTV33" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视33
