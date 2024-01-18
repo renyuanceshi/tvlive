@@ -1,34 +1,20 @@
 #EXTM3U url="https://raw.githubusercontent.com/renyuanceshi/tvlive/main/tvlive.m3u"
 #EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream3/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream4/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="http://content.stream-link.org/tv_logo/hoy_tv.png" group-title="奇妙電視",香港開電視
-https://sc2024.stream-link.org/live/15524818563.php?id=h52nc
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="http://content.stream-link.org/tv_logo/hoy_tv.png" group-title="奇妙電視",香港開電視
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+https://hls.watchtv.uk/mytvb/hoytv/index.m3u8?t=1705593619&token=13c7ecb0d271ebd9a089535a114962d6
+#EXTINF:-1 tvg-id="78" tvg-name="香港開資訊台" tvg-logo="http://content.stream-link.org/tv_logo/hoy_tv.png" group-title="奇妙電視",香港開資訊台
+https://hls.watchtv.uk/mytvb/hoyzxt/index.m3u8?t=1705593582&token=37df10e15dac83f6b29a7546fec995e4
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
-https://sc2024.stream-link.org/live/15524818563.php?id=h04cp
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台(星火)
-https://hls.watchtv.uk/jade_twn/playlist-39.m3u8a?t=1705586772&token=efe218964142aa57744ef9dcf427677b
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台(星火)
-https://hls.watchtv.uk/jade_mike/playlist-39.m3u8a?t=1705586820&token=b601826f71107887d754570c1ba12c71
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台(星火)
-https://hls.watchtv.uk/jade_mike/playlist-39.m3u8a?t=1705586820&token=b601826f71107887d754570c1ba12c71
+https://hls.watchtv.uk/jade_twn/playlist-39.m3u8a?t=1705593683&token=4d66e1dc7c1b102b1e454959f469c2c5
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",華麗(翡翠台)
-https://sc2024.stream-link.org/live/15524818563.php?id=h01wa
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",華麗(翡翠台)(星火)
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
-https://sc2024.stream-link.org/live/15524818563.php?id=h69ur
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台(星火)
-https://hls.watchtv.uk/j2_twn/playlist-17.m3u8a?t=1705576746&token=d46efcdd3c7bacb0876b7769ce23c596
+https://hls.watchtv.uk/j2_twn/playlist-17.m3u8a?t=1705593769&token=badb69bdb170f7009a7566f165641772
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
+https://hls.watchtv.uk/tvbj2_twn/playlist-39.m3u8a?t=1705593790&token=a730055e36a6022e9210ffefe16d89db
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
+https://hls.watchtv.uk/j2_twn/playlist-17.m3u8a?t=1705593816&token=e75b3813f9a8cebe6eeb9f82d08b8d2a
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
 https://sc2024.stream-link.org/live/15524818563.php?id=h07ck
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
