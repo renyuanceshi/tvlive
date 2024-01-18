@@ -37,3 +37,5 @@ https://sc2024.stream-link.org/live/15524818563.php?id=h15qf
 https://sc2024.stream-link.org/live/15524818563.php?id=h77ab
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="NOW",ViuTV(星火)
 https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705577652&token=2f557f64b8678fea276099caeae27599
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="NOW",ViuTV(星火)
+https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705577857&token=eac02b589106025d557d8b23a61c008b
