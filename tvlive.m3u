@@ -10,11 +10,11 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream4/streamPlay
 #EXTINF:-1 tvg-id="31" tvg-name="RTHK" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
-https://sc2024.stream-link.org/live/15524818563.php?id=h19ta
+https://sc2024.stream-link.org/live/15524818563.php?id=h04cp
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台(星火)
 https://hls.watchtv.uk/jade_twn/playlist-39.m3u8a?t=1705573559&token=27c45cee9c0ec6af18f797ea84a66f79
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台1
-https://sc2024.stream-link.org/live/15524818563.php?id=h87ck
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",華麗(翡翠台)
+https://sc2024.stream-link.org/live/15524818563.php?id=h01wa
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
 https://sc2024.stream-link.org/live/15524818563.php?id=h58hp
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
