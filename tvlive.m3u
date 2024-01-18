@@ -21,6 +21,8 @@ https://hls.watchtv.uk/jade_twn/playlist-39.m3u8a?t=1705579803&token=1f2e375f5bb
 https://hls.watchtv.uk/jade_twn/playlist-39.m3u8a?t=1705579867&token=3172406c93c84f090c4990a962d04f35
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",華麗(翡翠台)
 https://sc2024.stream-link.org/live/15524818563.php?id=h01wa
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",華麗(翡翠台)(星火)
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
 https://sc2024.stream-link.org/live/15524818563.php?id=h69ur
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台(星火)
