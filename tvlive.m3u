@@ -35,5 +35,5 @@ https://hls.watchtv.uk/pearlbk_twn/playlist-17.m3u8a?t=1705574532&token=27d730fd
 https://sc2024.stream-link.org/live/15524818563.php?id=h15qf
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
 https://sc2024.stream-link.org/live/15524818563.php?id=h77ab
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV99" tvg-logo="http://content.stream-link.org/tv_logo/viutv99.png" group-title="NOW",ViuTV99
-https://sc2024.stream-link.org/live/15524818563.php?id=h02en
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="NOW",ViuTV(星火)
+https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705577652&token=2f557f64b8678fea276099caeae27599
