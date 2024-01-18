@@ -45,5 +45,5 @@ https://hls.watchtv.uk/viusix_twn/playlist-17.m3u8a?t=1705578147&token=7144de36f
 https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705577652&token=2f557f64b8678fea276099caeae27599
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="NOW",ViuTV(星火)
 https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705577857&token=eac02b589106025d557d8b23a61c008b
-EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視資訊台" tvg-logo="http://content.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視資訊台(星火)
+EXTINF:-1 tvg-id="9999" tvg-name="台" tvg-logo="http://content.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",資訊台(星火)
 https://hls.watchtv.uk/phoenixinfo_hd/playlist-17.m3u8a?t=1705579112&token=eff3c15bb7ecae1c5a3ae48489999444
