@@ -16,9 +16,9 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
 https://sc2024.stream-link.org/live/15524818563.php?id=h04cp
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台(星火)
-https://hls.watchtv.uk/jade_twn/playlist-39.m3u8a?t=1705579803&token=1f2e375f5bb53007f66ccd3b19bc1857
+https://hls.watchtv.uk/jade_twn/playlist-39.m3u8a?t=1705586349&token=cffccd9ea665a2f0fa74a4acdf7e13e5
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台(星火)
-https://hls.watchtv.uk/jade_twn/playlist-39.m3u8a?t=1705579867&token=3172406c93c84f090c4990a962d04f35
+https://hls.watchtv.uk/jade_mike/playlist-39.m3u8a?t=1705586383&token=71dfea88593440a3abbc19748b567f4b
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",華麗(翡翠台)
 https://sc2024.stream-link.org/live/15524818563.php?id=h01wa
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",華麗(翡翠台)(星火)
@@ -45,5 +45,5 @@ https://hls.watchtv.uk/viusix_twn/playlist-17.m3u8a?t=1705578147&token=7144de36f
 https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705577652&token=2f557f64b8678fea276099caeae27599
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="NOW",ViuTV(星火)
 https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705577857&token=eac02b589106025d557d8b23a61c008b
-EXTINF:-1 tvg-id="999" tvg-name="Viu" tvg-logo="http://content.stream-link.org/tv_logo/phtv_info.png" group-title="Viu",Viu(星火)
+#EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視資訊台" tvg-logo="http://www.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視資訊台
 https://hls.watchtv.uk/phoenixinfo_hd/playlist-17.m3u8a?t=1705579112&token=eff3c15bb7ecae1c5a3ae48489999444
