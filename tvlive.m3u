@@ -16,9 +16,11 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
 https://sc2024.stream-link.org/live/15524818563.php?id=h04cp
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台(星火)
-https://hls.watchtv.uk/jade_twn/playlist-39.m3u8a?t=1705586349&token=cffccd9ea665a2f0fa74a4acdf7e13e5
+https://hls.watchtv.uk/jade_twn/playlist-39.m3u8a?t=1705586772&token=efe218964142aa57744ef9dcf427677b
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台(星火)
-https://hls.watchtv.uk/jade_mike/playlist-39.m3u8a?t=1705586383&token=71dfea88593440a3abbc19748b567f4b
+https://hls.watchtv.uk/jade_mike/playlist-39.m3u8a?t=1705586820&token=b601826f71107887d754570c1ba12c71
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台(星火)
+https://hls.watchtv.uk/jade_mike/playlist-39.m3u8a?t=1705586820&token=b601826f71107887d754570c1ba12c71
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",華麗(翡翠台)
 https://sc2024.stream-link.org/live/15524818563.php?id=h01wa
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",華麗(翡翠台)(星火)
