@@ -16,22 +16,24 @@ https://hls.watchtv.uk/tvbj2_twn/playlist-39.m3u8a?t=1705593790&token=a730055e36
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
 https://hls.watchtv.uk/j2_twn/playlist-17.m3u8a?t=1705593816&token=e75b3813f9a8cebe6eeb9f82d08b8d2a
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
-https://sc2024.stream-link.org/live/15524818563.php?id=h07ck
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
-https://sc2024.stream-link.org/live/15524818563.php?id=h16sr
-#EXTINF:-1 tvg-id="83" tvg-name="明珠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_pearl.png" group-title="TVB",明珠台(星火)
-https://hls.watchtv.uk/pearl_twn/playlist-17.m3u8a?t=1705574508&token=12be6ee74bdb68d2229519ef12c54152
-#EXTINF:-1 tvg-id="83" tvg-name="明珠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_pearl.png" group-title="TVB",明珠台(星火)
-https://hls.watchtv.uk/pearlbk_twn/playlist-17.m3u8a?t=1705574532&token=27d730fde3b45c2899886688192a4e3a
+https://hls.watchtv.uk/inews_twn/playlist-39.m3u8a?t=1705594089&token=92b53c69bc36c8f96d9633f01c1fa697
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_pearl.png" group-title="TVB",明珠台
+https://hls.watchtv.uk/pearl_twn/playlist-17.m3u8a?t=1705594144&token=94aab9e0e2e845dd2679a0dbcb697251
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_pearl.png" group-title="TVB",明珠台
+https://hls.watchtv.uk/pearlbk_twn/playlist-17.m3u8a?t=1705594163&token=719540bf4e2f59703fd6c447d461308c
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
-https://sc2024.stream-link.org/live/15524818563.php?id=h15qf
+https://hls.watchtv.uk/caiji_twn/playlist-39.m3u8a?t=1705594216&token=71085a87d2b3547ae076a7dc0c971e34
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
-https://sc2024.stream-link.org/live/15524818563.php?id=h77ab
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV6" tvg-logo="http://content.stream-link.org/tv_logo/viutv6.png" group-title="NOW",ViuTV6(星火)
-https://hls.watchtv.uk/viusix_twn/playlist-17.m3u8a?t=1705578147&token=7144de36fa11b3ed8a2bbf190dcd6e2e
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="NOW",ViuTV(星火)
-https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705577652&token=2f557f64b8678fea276099caeae27599
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="NOW",ViuTV(星火)
-https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705577857&token=eac02b589106025d557d8b23a61c008b
+https://hls.watchtv.uk/tvbcaijing_twn/playlist-17.m3u8a?t=1705594230&token=32006a3b51123002724aeb0d03a0946c
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV6" tvg-logo="http://content.stream-link.org/tv_logo/viutv6.png" group-title="NOW",ViuTV6
+https://hls.watchtv.uk/viusix_twn/playlist-17.m3u8a?t=1705594311&token=e2ea6d811a556ae0653dfa4f791491b6
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV6" tvg-logo="http://content.stream-link.org/tv_logo/viutv6.png" group-title="NOW",ViuTV6
+https://hls.watchtv.uk/viusix_twn/playlist-17.m3u8a?t=1705594337&token=5e24cfe526d9b49208816e666d12076d
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV6" tvg-logo="http://content.stream-link.org/tv_logo/viutv6.png" group-title="NOW",ViuTV6
+https://hls.watchtv.uk/viutvs_twn/playlist-17.m3u8a?t=1705594351&token=ff7774aac3321d73fd08b29d79b6cdf0
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="NOW",ViuTV
+https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705594393&token=98e5c2dbe576b83861fcfb87f36d0d9d
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="NOW",ViuTV
+https://hls.watchtv.uk/viu1_twn/playlist-17.m3u8a?t=1705594412&token=fbe12ed5d7680e5f33220276baffe8d6
 #EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視資訊台" tvg-logo="http://www.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視資訊台
 https://hls.watchtv.uk/phoenixinfo_hd/playlist-17.m3u8a?t=1705579112&token=eff3c15bb7ecae1c5a3ae48489999444
