@@ -64,3 +64,8 @@ https://hls.watchtv.uk/phoenixinfo_hd/playlist-17.m3u8a?t=1705655766&token=7954f
 https://hls.watchtv.uk/ompd/pcc/index.m3u8?t=1705655789&token=3ca132c308165e6308f97af4484910a3
 #EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視香港台" tvg-logo="http://www.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視香港台
 https://hls.watchtv.uk/ompd/phk/index.m3u8?t=1705655811&token=08f32caa1f0a88edbfb4e1f45aaf9944
+
+#EXTINF:-1 tvg-id="9999" tvg-name="澳视澳门" tvg-logo="http://www.stream-link.org/tv_logo/phtv_info.png" group-title="澳视",澳视澳门
+https://live4.tdm.com.mo/ch1/_definst_/ch1.live/chunklist_w1368583262.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="澳门资讯" tvg-logo="http://www.stream-link.org/tv_logo/phtv_info.png" group-title="澳视",澳门资讯
+https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
