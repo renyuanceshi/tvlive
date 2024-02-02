@@ -1,6 +1,6 @@
 #EXTM3U url="https://raw.githubusercontent.com/renyuanceshi/tvlive/main/tvlive.m3u"
 #EXTINF:-1 tvg-id="31" tvg-name="RTHKTV31" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
-RTHK31, https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="RTHKTV32" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="RTHKTV33" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视33
@@ -33,16 +33,10 @@ https://hls.watchtv.uk/pearlbk_twn/playlist-17.m3u8a?t=1705655569&token=1da21af8
 https://sc2024.stream-link.org/live/15524818563.php?id=h98wz
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
 https://sc2024.stream-link.org/live/15524818563.php?id=h27ww
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTVsix" tvg-logo="http://content.stream-link.org/tv_logo/viutv6.png" group-title="NOW",ViuTV6
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTVsix" tvg-logo="http://content.stream-link.org/tv_logo/viutv6.png" group-title="香港電視娛樂",ViuTV6
 https://hls.watchtv.uk/viusix_twn/playlist-17.m3u8a?t=1705655660&token=e38fe63a619dcfc93e6ee0798d32f44b
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTVsix" tvg-logo="http://content.stream-link.org/tv_logo/viutv6.png" group-title="NOW",ViuTV6
-https://hls.watchtv.uk/viusix_twn/playlist-17.m3u8a?t=1705655672&token=6061043f1f1aa007a115585bdbbd2eb4
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTVsix" tvg-logo="http://content.stream-link.org/tv_logo/viutv6.png" group-title="NOW",ViuTV6
-https://hls.watchtv.uk/viutvs_twn/playlist-17.m3u8a?t=1705655685&token=e80846430a3668b6c2220c43738cfbfa
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="NOW",ViuTV
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="香港電視娛樂",ViuTV
 https://sc2024.stream-link.org/live/15524818563.php?id=h11uc
-#EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視資訊台" tvg-logo="http://www.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視資訊台
-https://hls.watchtv.uk/ompd/pin/index.m3u8?t=1705655754&token=4d7884c2337ff84916477df03760a23f
 #EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視資訊台" tvg-logo="http://www.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視資訊台
 https://sc2024.stream-link.org/live/15524818563.php?id=h96uj
 #EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視中文台" tvg-logo="http://www.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視中文台
