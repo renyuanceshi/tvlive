@@ -21,8 +21,6 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 https://sc2024.stream-link.org/live/15524818563.php?id=h37du
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
-https://sc2024.stream-link.org/live/15524818563.php?id=h82nj
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_pearl.png" group-title="TVB",明珠台
 https://hls.watchtv.uk/ompd/pearl/index.m3u8?t=1705655540&token=991a95055adc2dca8821681b63879d73
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_pearl.png" group-title="TVB",明珠台
